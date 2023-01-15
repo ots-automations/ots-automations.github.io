@@ -11,3 +11,5 @@
 <p>&nbsp;</p>
 
 <p>Feel free to contact me at:&nbsp;<a href="https://www.linkedin.com/in/stylianos-charmpalis-76156315b/">https://www.linkedin.com/in/stylianos-charmpalis-76156315b/</a></p>
+
+theme: minima
